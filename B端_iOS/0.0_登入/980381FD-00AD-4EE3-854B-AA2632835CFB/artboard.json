@@ -1,0 +1,191 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "980381FD-00AD-4EE3-854B-AA2632835CFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1697,
+    "y": 1038
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "79C12750-5F90-4253-89D4-37A944EA445F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "609B246C-FF40-4F45-A51C-3D980FF30DEC"
+    },
+    {
+      "class": "group",
+      "id": "24552FA0-57C6-40B3-AEA5-88409FA495E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC91E381-7C69-4B00-BA3D-1F8A26FF566F"
+    },
+    {
+      "class": "rectangle",
+      "id": "BDB8A641-B382-400F-97F1-FF70A658FE30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1D362FB-A4B4-43D8-91BB-CD4398D6E8D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E37CBC50-4C58-4982-9B5E-F7E1055BB8A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E250077F-3667-4DA8-9DA8-E11AD49CAE50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A40630D5-FBA9-4015-865F-B578B1412AB0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "137C5DD0-4A96-4FE8-B08E-54DE01AC73FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5C24833-2DB6-4B30-8C5F-381D7C960BBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1971F4B3-2B10-4656-A1E9-FAAE8CA79805"
+    }
+  ],
+  "name": "0.2.3_login_密碼_預設隱碼",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "355CF84E-04E9-4845-8C4C-B4C73342D8A1",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "980381FD-00AD-4EE3-854B-AA2632835CFB"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "4A1F0239-A575-45C6-83D8-60E2B06E633A",
+        "7CEF61DD-AD97-4C1B-9802-86B0A1527B47",
+        "9F130CF3-854D-42EC-BC3F-022D15B33262",
+        "BEC5B7E3-30C1-47AE-AC31-B5071B5E17FE"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

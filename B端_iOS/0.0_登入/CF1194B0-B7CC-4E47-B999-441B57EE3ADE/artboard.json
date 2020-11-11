@@ -1,0 +1,179 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF1194B0-B7CC-4E47-B999-441B57EE3ADE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 2140,
+    "y": 1038
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C018F1EC-A576-433C-A36D-9ED3301B9216"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EEB8403-ADDA-47D8-801F-218E9F238731"
+    },
+    {
+      "class": "group",
+      "id": "5F046D05-527F-4104-B8A6-68B6162AE836"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8DDA60CF-9556-4E3F-8CF9-AA6CEFA4E706"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "375F594F-92A9-43B0-8920-80E40BCC3D37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "982BC568-3C0B-4C56-AEE0-C7DB1D59D402"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F9782C6-EBEB-4345-80B1-D50A4E125E48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EE246BB-963A-4EAA-9CBC-0FD4DB681285"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27829896-6776-4542-BEAC-F4323C42E090"
+    }
+  ],
+  "name": "0.2.4_login_密碼_明碼",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D9A0022E-139A-4DE6-9FFF-9BFA796F6338",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "CF1194B0-B7CC-4E47-B999-441B57EE3ADE"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "4A1F0239-A575-45C6-83D8-60E2B06E633A",
+        "7CEF61DD-AD97-4C1B-9802-86B0A1527B47",
+        "9F130CF3-854D-42EC-BC3F-022D15B33262",
+        "BEC5B7E3-30C1-47AE-AC31-B5071B5E17FE"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

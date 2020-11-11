@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F390CD2B-204B-4314-B73E-E25F6274EF71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 270,
+    "x": 53,
+    "y": 264
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iOS/Alerts/OneBtn/title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3417E7A-D0F1-4335-9668-5C9CE7A8897E_stringValue",
+      "value": "前往設定"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FCD53B8-82DB-4ED2-B5F0-068B9FD8C9D2_stringValue",
+      "value": "先不要"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "954141BE-6CD0-4AAC-81F3-3A01B500A5CD_stringValue",
+      "value": "尚未開啟相機使用權限"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "402873E2-1083-4918-B1CE-155813DB16BA_stringValue",
+      "value": "需開啟相機權限才能使用掃碼收款功能，和掃碼配對裝置。"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C34B328C-3653-42BF-B1A4-99958110AE22",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F85128BA-B300-49EC-BB61-D1B1ED9ADEAC",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,184 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "green": 0.9647058823529412,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9901F4FC-EE94-471C-92B8-DF40C9D269E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -1363,
+    "y": -240
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "50C71DE5-6971-473D-AB83-8326107ED61C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EFBA515-B064-4625-ABF3-09DF281D6EE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60EE3FB4-E653-45EE-8421-9640FEBF300F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D2F44CF-CA4B-4A4E-A7E5-F1B28DEE145A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD349C82-64D0-4D1E-85D5-607E0145B18E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FEA9D4D-DE7E-4660-91F0-117E253D6879"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6091327A-022B-4A54-8284-4833C347E7EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33213C3B-6582-4B9C-8462-9C9E4AAB2D28"
+    },
+    {
+      "class": "group",
+      "id": "2C709366-F2DE-4340-BDB3-9385250C163C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C113C3DE-C120-4189-8300-5A776D7415DC"
+    },
+    {
+      "class": "rectangle",
+      "id": "A8FA5351-F37B-4354-A9DC-CFFD198A5E53"
+    }
+  ],
+  "name": "3.0.1_交易紀錄_搜尋focus",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "41FF3E03-D7D3-465A-B6E3-07960043F03C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "4A1F0239-A575-45C6-83D8-60E2B06E633A",
+        "7CEF61DD-AD97-4C1B-9802-86B0A1527B47",
+        "9F130CF3-854D-42EC-BC3F-022D15B33262",
+        "BEC5B7E3-30C1-47AE-AC31-B5071B5E17FE"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

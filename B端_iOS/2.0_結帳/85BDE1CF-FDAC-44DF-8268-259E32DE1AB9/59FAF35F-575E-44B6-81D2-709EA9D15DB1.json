@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59FAF35F-575E-44B6-81D2-709EA9D15DB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 177,
+    "width": 294,
+    "x": 33,
+    "y": 232
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "android/Dialog/title with detail",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7C509825-516C-4783-8B9E-0FB82981684B_stringValue",
+      "value": "前往設定"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FF0DCB19-C4EA-45AA-84B7-99F1B3353B13_stringValue",
+      "value": "先不要"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A498A5BF-54BF-4195-9CC3-73ADEF3517AE_stringValue",
+      "value": "需開啟相機權限才能使用掃碼收款功能，和掃碼配對裝置。"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65F56DDA-99BB-44A9-B48C-6CEEAC451D1C_stringValue",
+      "value": "尚未開啟相機使用權限"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "80A7F100-72CE-46D4-AA7E-7AAA1823E359",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9EC44A58-9B6A-42D3-94F4-176D958F3101",
+  "verticalSpacing": 0
+}

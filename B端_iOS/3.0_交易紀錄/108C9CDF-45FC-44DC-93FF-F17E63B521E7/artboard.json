@@ -1,0 +1,180 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "green": 0.9647058823529412,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "108C9CDF-45FC-44DC-93FF-F17E63B521E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 331,
+    "y": -240
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "98B7F2C4-EC39-4E8D-97B3-33ED818DE963"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B3647B6-2170-43CB-B678-E23C9CBBD156"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B507834-2C07-479E-8147-8C21E5393AEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED5369C0-E966-4FD0-8178-BF86FB312E31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE4BD84B-BD54-423A-928C-A6B283ABE8F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4427A52-BFFA-47E4-87FC-1F5F0902C70E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "513716CF-90A8-4241-84B7-3F8ACA7FF79E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "063A5D29-D625-4D66-8550-AAE68F6FBF6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BAA302C-4830-4E29-9CF4-F85DB9322F2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A934E7FA-F9F9-48B6-847B-BF74CCCDF7AC"
+    }
+  ],
+  "name": "3.0.5_交易紀錄_滑動",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D1DC43A9-07CA-4448-A3AF-D8371EC8AD0A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "4A1F0239-A575-45C6-83D8-60E2B06E633A",
+        "7CEF61DD-AD97-4C1B-9802-86B0A1527B47",
+        "9F130CF3-854D-42EC-BC3F-022D15B33262",
+        "BEC5B7E3-30C1-47AE-AC31-B5071B5E17FE"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

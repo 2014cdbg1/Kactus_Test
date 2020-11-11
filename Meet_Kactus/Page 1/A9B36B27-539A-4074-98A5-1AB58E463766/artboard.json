@@ -51,11 +51,15 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "B73F93FE-DE17-4067-863A-6526C2AE28D8"
+      "id": "154AC4FB-7E9D-4E60-9AEB-58E6933F3058"
+    },
+    {
+      "class": "triangle",
+      "id": "24F3DE42-1473-4794-AC2C-0983EA4B7375"
     },
     {
       "class": "rectangle",
-      "id": "154AC4FB-7E9D-4E60-9AEB-58E6933F3058"
+      "id": "B73F93FE-DE17-4067-863A-6526C2AE28D8"
     }
   ],
   "name": "iPhone 12 Pro Max",

@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B8D5BF7-80E2-4D8A-BDDD-1920854E57FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Appbar/android/small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "66E908BD-ECCA-4255-9D63-C7727CF51ED4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FEF8A07-1153-4901-A58A-CD4F96E3EB03_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "24F3B88C-0E9F-4C3D-84F3-168297702348_symbolID",
+      "value": "ABE799AC-D750-4C19-9FA2-465E1453A276"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B12370C3-D9EC-44E9-B685-CCF31E5ED09E_textStyle",
+      "value": "B00037DD-36E3-46B5-8E92-9396CCB18AC2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B12370C3-D9EC-44E9-B685-CCF31E5ED09E_stringValue",
+      "value": "裝置配對"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "74AA6155-AA98-4428-A1E0-E94C9D365FE3/C32D9BE8-BA41-429C-9C46-0CFA40CC2376_symbolID",
+      "value": "26448AB8-A506-45C6-902E-9AB2244080C6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "EDB148A8-2C28-4AFA-BE98-7540CABF1563",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CA95D0B-5E60-4D34-8C90-7004ED3F7576",
+  "verticalSpacing": 0
+}

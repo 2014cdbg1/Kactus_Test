@@ -1,0 +1,128 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3945E65D-6FB0-4306-A153-2FFA7314BA38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 77,
+    "width": 136,
+    "x": 119,
+    "y": 556
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "33D14287-058F-4F48-B5E4-5BF8CCF22A4E"
+    }
+  ],
+  "name": "功能 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E9B72593-BF06-475C-8AF8-62D05077FC79",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "3DB0A7DB-3D09-422B-AEA5-477888A550EF",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 77,
+          "width": 136,
+          "x": 119,
+          "y": 556
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "1D030CEC-0D36-48BB-B061-D31AC2FEE253",
+        "symbolID": "28B3B8E9-6B18-4925-BB32-A33D62443598"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "3DB0A7DB-3D09-422B-AEA5-477888A550EF",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 77,
+          "width": 136,
+          "x": 119,
+          "y": 556
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "1D030CEC-0D36-48BB-B061-D31AC2FEE253",
+        "symbolID": "28B3B8E9-6B18-4925-BB32-A33D62443598"
+      }
+    }
+  }
+}

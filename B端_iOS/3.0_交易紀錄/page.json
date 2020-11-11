@@ -1,0 +1,197 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA2D8CC7-2410-4AB4-B08D-1F514965F141",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -564,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5FD63109-8B0D-48A7-AD4B-9FF1FC9D137D"
+    },
+    {
+      "class": "artboard",
+      "id": "D53EC49D-18FB-49E7-AF87-3567F5A92D0B"
+    },
+    {
+      "class": "artboard",
+      "id": "6376E828-00C4-4DEA-97D1-222385CCA1CD"
+    },
+    {
+      "class": "artboard",
+      "id": "2CC052BE-1DEC-4FF3-9B50-A6287D772EFC"
+    },
+    {
+      "class": "artboard",
+      "id": "9901F4FC-EE94-471C-92B8-DF40C9D269E9"
+    },
+    {
+      "class": "artboard",
+      "id": "86202C1B-DF94-485D-AD3A-A465004B29E6"
+    },
+    {
+      "class": "artboard",
+      "id": "FBDED94D-5E89-4F33-99B1-A197A2AABAF9"
+    },
+    {
+      "class": "artboard",
+      "id": "2D075030-8899-430D-9866-FD27E9C8E165"
+    },
+    {
+      "class": "artboard",
+      "id": "108C9CDF-45FC-44DC-93FF-F17E63B521E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D10834C-58FC-4F4F-83AC-74F2E8383C2E"
+    },
+    {
+      "class": "artboard",
+      "id": "51E9BA58-D6D1-4AB6-AFA9-2E954CB3491E"
+    },
+    {
+      "class": "artboard",
+      "id": "7ED12666-D961-46EE-A437-41E57E3EFCDF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8E2B0A2A-EEED-4593-9FA6-FD2065863ADE"
+    },
+    {
+      "class": "artboard",
+      "id": "4E140E14-E6F2-4EDD-89BC-BAEBBAF63D8E"
+    },
+    {
+      "class": "artboard",
+      "id": "EDA95AFB-7CE7-4872-8A56-E10AC7F92169"
+    },
+    {
+      "class": "artboard",
+      "id": "CD7CA6A7-ED0C-4DC8-B917-42247597A364"
+    },
+    {
+      "class": "artboard",
+      "id": "131C779C-5DE8-40B2-ABBB-8B722CCC2FDD"
+    },
+    {
+      "class": "artboard",
+      "id": "9DB7D830-966C-4D0B-9E2C-2E01CAAACA39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A0FEA2D-C3C8-4D3F-99D4-65247412908C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "655FC1EB-A502-4811-AB22-17136D3921EE"
+    },
+    {
+      "class": "bitmap",
+      "id": "E80795E9-6D01-4966-8120-494610B835AD"
+    },
+    {
+      "class": "bitmap",
+      "id": "55F35FF5-DA28-47C2-BBE4-BB09CC0275E4"
+    },
+    {
+      "class": "artboard",
+      "id": "35C4C33E-3F3D-4799-AA74-67FB231B7BAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32FF8C1A-E05B-4A47-83EC-D4A56A520CD7"
+    }
+  ],
+  "name": "3.0_交易紀錄",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6EF587EE-CD26-4E7D-828B-543DB1A521D6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -528,
+    "guides": [
+    ]
+  }
+}

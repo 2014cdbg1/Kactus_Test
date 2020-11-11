@@ -1,0 +1,195 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47E04696-E571-47F2-B4AA-E36CDB7C6A68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1268,
+    "y": 1039
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "020B5767-796B-4FCB-A515-217FC32E8299"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED3B9177-F9B7-422C-B96E-AB58A7C66710"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAE992EC-9626-49C2-817D-80AD4B77FB4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAD5F1D7-8ED4-4D10-B177-BBAD12867581"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A751CF08-B104-4493-8FE6-9E7E21F3C200"
+    },
+    {
+      "class": "rectangle",
+      "id": "7F4858EF-4568-4520-B10F-D64989B1A4C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DBAE525-640F-452C-A5F0-56A9C6BE1D1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E88BF9D0-9FD0-40DD-AF17-D226C0D18CEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA881DEA-1FD8-46EB-90E2-19A649D59019"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEC6DCA5-DD7D-437C-89E4-072300EDB1CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8FB7940-EAD7-4444-8ED1-7117CAEB3E43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF8FE1F1-2D46-4283-ACDA-D73D3CD85A38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29219DE2-9510-4FCD-BD34-B710EF4D1B17"
+    }
+  ],
+  "name": "0.2.2_login_input",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D3621796-761A-4A09-90BB-B7B9D0A68CE8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "47E04696-E571-47F2-B4AA-E36CDB7C6A68"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "4A1F0239-A575-45C6-83D8-60E2B06E633A",
+        "7CEF61DD-AD97-4C1B-9802-86B0A1527B47",
+        "9F130CF3-854D-42EC-BC3F-022D15B33262",
+        "BEC5B7E3-30C1-47AE-AC31-B5071B5E17FE"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
