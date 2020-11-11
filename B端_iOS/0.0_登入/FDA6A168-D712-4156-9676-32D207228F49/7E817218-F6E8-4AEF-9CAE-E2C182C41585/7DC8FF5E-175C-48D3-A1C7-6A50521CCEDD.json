@@ -33,7 +33,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "7261E68E-72E3-4D19-B463-EFD809C35331_stringValue",
+      "overrideName": "C0F5DC94-54A9-45EC-9B68-FFD3F9E8A6EF_stringValue",
       "value": "開始配對"
     }
   ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AE79AF34-B3FE-46BF-80F4-33CB17515EDD",
+  "symbolID": "FCB45D20-3D47-4A2B-B952-8151E1EE4CAE",
   "verticalSpacing": 0
 }
